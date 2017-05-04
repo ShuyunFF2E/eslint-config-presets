@@ -1,7 +1,9 @@
 # vim: ft=yaml
+
 extends:
   - presets/rules/react.custom.yml
   - plugin:react-native/all
+
 rules:
   class-methods-use-this: [error, {
     exceptMethods: [
