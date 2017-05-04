@@ -14,7 +14,7 @@ function use_gnu_sed() {
   fi
 }
 
-old_preset_name="arzyu"
+old_preset_name="shuyun"
 
 cd "$(dirname "$0")/.."
 

@@ -1,20 +1,19 @@
 {
-  "name": "eslint-config-arzyu-react-native",
+  "name": "eslint-config-shuyun-react",
   "version": "2.0.0",
-  "description": "Eslint config preset for react-native.",
+  "description": "Eslint config preset for react.",
   "main": "index.yml",
   "dependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint-config-presets": "arzyu/eslint-config-presets#v2.0.0",
-    "eslint-plugin-react": "^6.10.3",
-    "eslint-plugin-react-native": "^2.3.2"
+    "eslint-config-presets": "shuyunff2e/eslint-config-presets#v2.0.0",
+    "eslint-plugin-react": "^6.10.3"
   },
   "peerDependencies": {
     "eslint": "^3.19.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arzyu/eslint-config-presets"
+    "url": "https://github.com/shuyunff2e/eslint-config-presets"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

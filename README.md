@@ -8,36 +8,36 @@
 
 ```bash
 ## install default preset
-yarn add -D eslint-config-arzyu
+yarn add -D eslint-config-shuyun
 
 ## install nodejs preset
-yarn add -D eslint-config-arzyu-nodejs
+yarn add -D eslint-config-shuyun-nodejs
 
 ## install chrome preset
-yarn add -D eslint-config-arzyu-chrome
+yarn add -D eslint-config-shuyun-chrome
 
 ## install angular preset
-yarn add -D eslint-config-arzyu-angular
+yarn add -D eslint-config-shuyun-angular
 
 ## install react preset
-yarn add -D eslint-config-arzyu-react
+yarn add -D eslint-config-shuyun-react
 
 ## install react-native preset
-yarn add -D eslint-config-arzyu-react-native
+yarn add -D eslint-config-shuyun-react-native
 ```
 
 ### Use preset
 
 There are two ways to use a preset.
 
-Suppose you have installed `eslint-config-arzyu-react`, and then:
+Suppose you have installed `eslint-config-shuyun-react`, and then:
 
 Add `eslintConfig` option to `package.json`:
 
 ```json
 {
   "eslintConfig": {
-    "extends": "arzyu-react"
+    "extends": "shuyun-react"
   }
 }
 ```
@@ -45,7 +45,7 @@ Add `eslintConfig` option to `package.json`:
 or Create a eslint config file (e.g. `.eslintrc.yml`) on top level of your project:
 
 ```yaml
-extends: arzyu-react
+extends: shuyun-react
 ```
 
 ## Fork it
