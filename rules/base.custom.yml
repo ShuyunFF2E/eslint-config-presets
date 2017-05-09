@@ -86,7 +86,7 @@ rules:
   no-param-reassign: error
   no-proto: error
   #no-redeclare: error
-  #no-return-assign: error
+  no-return-assign: off
   no-return-await: error
   no-script-url: error
   #no-self-assign: error
@@ -212,7 +212,7 @@ rules:
   one-var-declaration-per-line: off
   operator-assignment: off
   operator-linebreak: off
-  #padded-blocks: [error, always]
+  padded-blocks: off
   quote-props: off
   quotes: [error, single, {avoidEscape: true}]
   require-jsdoc: off
