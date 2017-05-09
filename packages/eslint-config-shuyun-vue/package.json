@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-shuyun-vue",
+  "version": "2.0.2",
+  "description": "Eslint config preset.",
+  "main": "index.yml",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint-config-presets": "ShuyunFF2E/eslint-config-presets#v2.0.2",
+    "eslint-plugin-vue": "^2.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuyunff2e/eslint-config-presets"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT"
+}
