@@ -99,9 +99,9 @@ eslint-config-presets@ShuyunFF2E/eslint-config-presets#v2.0.1:
   version "2.0.1"
   resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/0a8ec6163182a6a9fe888bf6a67ae4bcc3c1d95e"
 
-eslint-config-presets@shuyunff2e/eslint-config-presets#v2.0.0:
-  version "2.0.0"
-  resolved "https://codeload.github.com/shuyunff2e/eslint-config-presets/tar.gz/93a497e30fce3d4cde75a371cd9277c01594b6dc"
+eslint-config-presets@ShuyunFF2E/eslint-config-presets#v2.0.2:
+  version "2.0.2"
+  resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/5871273b08afb7654d2f94a64d5421db22d4ad36"
 
 eslint-plugin-angular@^2.4.0:
   version "2.4.0"
