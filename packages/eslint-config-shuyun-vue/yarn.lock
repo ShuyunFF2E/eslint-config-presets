@@ -173,6 +173,10 @@ eslint-config-presets@ShuyunFF2E/eslint-config-presets#v2.0.2:
   version "2.0.2"
   resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/5871273b08afb7654d2f94a64d5421db22d4ad36"
 
+eslint-config-presets@ShuyunFF2E/eslint-config-presets#v2.1.0:
+  version "2.1.0"
+  resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/e8935519a652abb6afaa129efc7b9a9f6126fb8a"
+
 eslint-plugin-html@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/eslint-plugin-html/-/eslint-plugin-html-2.0.3.tgz#7c89883ab0c85fa5d28b666a14a4e906aa90b897"
