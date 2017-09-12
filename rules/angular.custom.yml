@@ -2,4 +2,5 @@ rules:
   angular/controller-name: [error, '/[A-Z].*Ctrl$/']
   angular/document-service: off
   angular/json-functions: off
+  angular/service-name: off
   angular/window-service: off
