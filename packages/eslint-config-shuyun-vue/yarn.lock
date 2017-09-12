@@ -169,13 +169,13 @@ escape-string-regexp@^1.0.2:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-config-presets@ShuyunFF2E/eslint-config-presets#v2.1.0:
-  version "2.1.0"
-  resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/e8935519a652abb6afaa129efc7b9a9f6126fb8a"
-
 eslint-config-presets@ShuyunFF2E/eslint-config-presets#v3.0.0:
   version "3.0.0"
   resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/bad20a206ce9702e83479586665dd8554a102315"
+
+eslint-config-presets@ShuyunFF2E/eslint-config-presets#v3.0.1:
+  version "3.0.1"
+  resolved "https://codeload.github.com/ShuyunFF2E/eslint-config-presets/tar.gz/fb67ddf0cc66f4b3dd7ea57c36eddc3eb06a99cb"
 
 eslint-plugin-html@^2.0.0:
   version "2.0.3"

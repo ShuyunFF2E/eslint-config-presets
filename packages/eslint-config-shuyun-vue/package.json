@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-shuyun-vue",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Eslint config preset.",
   "main": "index.yml",
   "dependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint-config-presets": "ShuyunFF2E/eslint-config-presets#v3.0.0",
+    "eslint-config-presets": "ShuyunFF2E/eslint-config-presets#v3.0.1",
     "eslint-plugin-vue": "^2.0.1"
   },
   "peerDependencies": {
